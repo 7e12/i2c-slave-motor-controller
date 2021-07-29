@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "controller.h": "c",
+        "stspin220.h": "c",
+        "drv8210dsgr.h": "c",
+        "stm32l452xx.h": "c",
+        "stm32l4xx_hal.h": "c"
+    }
+}
